@@ -4,7 +4,7 @@ import os
 import sys
 
 # https://qiita.com/ymto/items/e00e95543aab2d4d45ee ⇦ModuleNotFoundError: No module named 'djoser'が出たのでこちらの記事を参考にした
-sys.path.append('/Users/ta93n/学習/iidx_app/venv/lib/python3.9/site-packages')
+sys.path.append('/Users/ta93n/学習/iidx_app/.venv/lib/python3.9/site-packages')
 
 
 def main():
